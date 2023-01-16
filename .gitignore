@@ -1,1 +1,4 @@
 .pio
+.vscode
+wifi_credentials.h
+influxdb_credentials.h
